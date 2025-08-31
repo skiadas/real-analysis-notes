@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Chapter 0: Intro</title>
+
+  <section xml:id="sec-0-1">
+    <title>Sections 0.1, 0.2</title>
+    <paragraphs xml:id="sec-0-1-reading">
+      <title>Reading</title>
+      <p>
+        <ul>
+          <li>set notation, empty set</li>
+          <li>subsets (def 0.1.2), proper subset (def 0.1.4)</li>
+          <li>equal sets (def 0.1.5)</li>
+          <li>totally ordered sets (def 0.1.6)</li>
+          <li>Indexing sets</li>
+          <li>Union (def 0.1.9), intersection (def 0.1.11)</li>
+          <li>Complement (def 0.1.14)</li>
+          <li>Set difference (def 0.1.16)</li>
+          <li>ordered pairs, function definition (def 0.2.1) and terminology</li>
+          <li>domain/codomain/range</li>
+          <li>equal functions</li>
+          <li>one-to-one, onto, bijections (def 0.2.2)</li>
+          <li>composition (def 0.2.3)</li>
+          <li>theorem 0.2.5</li>
+          <li>restriction (def 0.2.6)</li>
+          <li>inverse functions (theorem 0.2.7, def 0.2.8)</li>
+          <li>image, inverse image (def 0.2.10)</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-0-1-presentations">
+      <title>Prepare for presentation</title>
+      <p>
+        <ul>
+          <li>Theorem 0.1.13 (problem 0.1.3)</li>
+          <li>Theorem 0.1.15 (problem 0.1.4)</li>
+          <li>Theorem 0.2.4 (problem 0.2.1)</li>
+          <li>Problem 0.2.2</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-0-1-practice">
+      <title>Practice problems</title>
+      <p>
+        <ul>
+          <li> Exercise 0.1.3</li>
+          <li> Exercise 0.1.7</li>
+          <li> Exercise 0.1.17</li>
+          <li> Problem 0.1.1</li>
+          <li> Problem 0.2.3</li>
+          <li> Exercise 0.2.11</li>
+          <li> Exercise 0.2.15</li>
+        </ul>
+      </p>
+      <p>Optional practice (no turn-in):
+      <ul>
+        <li>Problem 0.2.11</li>
+        <li>Problem 0.2.13</li>
+        <li>Problem 0.2.14</li>
+      </ul>
+     </p>
+    </paragraphs>
+  </section>
+</chapter>
