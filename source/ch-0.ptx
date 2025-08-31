@@ -5,7 +5,7 @@
 
   <section xml:id="sec-0-1">
     <title>Sections 0.1, 0.2</title>
-    <paragraphs xml:id="sec-0-1-reading">
+    <subsection xml:id="sec-0-1-reading">
       <title>Reading</title>
       <p>
         <ul>
@@ -28,8 +28,8 @@
           <li>image, inverse image (def 0.2.10)</li>
         </ul>
       </p>
-    </paragraphs>
-    <paragraphs xml:id="sec-0-1-presentations">
+    </subsection>
+    <subsection xml:id="sec-0-1-presentations">
       <title>Prepare for presentation</title>
       <p>
         <ul>
@@ -39,8 +39,8 @@
           <li>Problem 0.2.2</li>
         </ul>
       </p>
-    </paragraphs>
-    <paragraphs xml:id="sec-0-1-practice">
+    </subsection>
+    <subsection xml:id="sec-0-1-practice">
       <title>Practice problems</title>
       <p>
         <ul>
@@ -60,6 +60,43 @@
         <li>Problem 0.2.14</li>
       </ul>
      </p>
-    </paragraphs>
+    </subsection>
+  </section>
+
+
+  <section xml:id="sec-0-2">
+    <title>Sections 0.3, 0.4</title>
+    <subsection xml:id="sec-0-2-reading">
+      <title>Reading</title>
+      <p>This reading ends halfway through the 0.4 section.
+        <ul>
+          <li>binary operations (def 0.3.1)</li>
+          <li>commutative, associative (def 0.3.2)</li>
+          <li>multiplication distributes over addition</li>
+          <li>ordering properties for integers</li>
+          <li>axiom of induction</li>
+          <li>principle of mathematical induction (thm 0.3.3)</li>
+          <li>sequences (def 0.4.1)</li>
+          <li>exercise 0.4.2</li>
+          <li>def 0.4.3</li>
+          <li>def 0.4.4</li>
+          <li>Theorem 0.4.6</li>
+        </ul>
+      </p>
+    </subsection>
+    <subsection xml:id="sec-0-2-presentations">
+      <title>Prepare for presentation</title>
+      <p>
+        <ul>
+          <li>Theorem 0.3.3</li>
+          <li>Theorem 0.3.4</li>
+          <li>Exercise 0.4.5</li>
+        </ul>
+      </p>
+    </subsection>
+    <subsection xml:id="sec-0-2-practice">
+      <title>Practice problems</title>
+      <p>None</p>
+    </subsection>
   </section>
 </chapter>

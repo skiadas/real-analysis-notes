@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-1" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Chapter 1: Axioms for real numbers</title>
+
+  <section xml:id="sec-1-1">
+    <title>Sections 1.1, 1.2</title>
+    <subsection xml:id="sec-1-1-reading">
+      <title>Reading</title>
+      <p>
+        <ul>
+          <li>comments 1.1</li>
+          <li>Axiom I (field axioms)</li>
+          <li>def 1.2.1</li>
+          <li>theorem 1.2.2</li>
+          <li>"wish list"</li>
+          <li>exercise 1.2.9</li>
+          <li>read excursion A (end of book)</li>
+        </ul>
+      </p>
+    </subsection>
+    <subsection xml:id="sec-1-1-presentations">
+      <title>Prepare for presentation</title>
+      <p>
+        <ul>
+          <li>Theorem 1.2.4</li>
+          <li>Theorem 1.2.5 (exercise 1.2.6)</li>
+          <li>Theorem 1.2.8 (problem 1.2.3)</li>
+        </ul>
+      </p>
+    </subsection>
+    <subsection xml:id="sec-1-1-practice">
+      <title>Practice problems</title>
+      <p>
+        <ul>
+          <li>Exercise 1.2.3</li>
+          <li>Exercise 1.2.7</li>
+          <li>Problem 1.2.4</li>
+          <li>Problem 1.2.6</li>
+        </ul>
+      </p>
+      <p>
+        Optional practice (no turn-in):
+        <ul>
+          <li>Problem 1.2.7</li>
+          <li>Problem 1.2.8</li>
+        </ul>
+      </p>
+    </subsection>
+  </section>
+</chapter>
