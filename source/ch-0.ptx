@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="ch-0" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Chapter 0: Intro</title>
+  <title>Book chapter 0: Intro</title>
 
   <section xml:id="sec-0-1">
-    <title>Sections 0.1, 0.2</title>
-    <subsection xml:id="sec-0-1-reading">
+    <title>Book sections 0.1, 0.2</title>
+    <paragraphs xml:id="sec-0-1-reading">
       <title>Reading</title>
       <p>
         <ul>
@@ -28,8 +28,8 @@
           <li>image, inverse image (def 0.2.10)</li>
         </ul>
       </p>
-    </subsection>
-    <subsection xml:id="sec-0-1-presentations">
+    </paragraphs>
+    <paragraphs xml:id="sec-0-1-presentations">
       <title>Prepare for presentation</title>
       <p>
         <ul>
@@ -39,8 +39,8 @@
           <li>Problem 0.2.2</li>
         </ul>
       </p>
-    </subsection>
-    <subsection xml:id="sec-0-1-practice">
+    </paragraphs>
+    <paragraphs xml:id="sec-0-1-practice">
       <title>Practice problems</title>
       <p>
         <ul>
@@ -60,13 +60,13 @@
         <li>Problem 0.2.14</li>
       </ul>
      </p>
-    </subsection>
+    </paragraphs>
   </section>
 
 
   <section xml:id="sec-0-2">
-    <title>Sections 0.3, 0.4</title>
-    <subsection xml:id="sec-0-2-reading">
+    <title>Book sections 0.3, 0.4</title>
+    <paragraphs xml:id="sec-0-2-reading">
       <title>Reading</title>
       <p>This reading ends halfway through the 0.4 section.
         <ul>
@@ -83,8 +83,8 @@
           <li>Theorem 0.4.6</li>
         </ul>
       </p>
-    </subsection>
-    <subsection xml:id="sec-0-2-presentations">
+    </paragraphs>
+    <paragraphs xml:id="sec-0-2-presentations">
       <title>Prepare for presentation</title>
       <p>
         <ul>
@@ -93,10 +93,10 @@
           <li>Exercise 0.4.5</li>
         </ul>
       </p>
-    </subsection>
-    <subsection xml:id="sec-0-2-practice">
+    </paragraphs>
+    <paragraphs xml:id="sec-0-2-practice">
       <title>Practice problems</title>
       <p>None</p>
-    </subsection>
+    </paragraphs>
   </section>
 </chapter>

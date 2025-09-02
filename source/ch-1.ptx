@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="ch-1" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Chapter 1: Axioms for real numbers</title>
+  <title>Book chapter 1: Axioms for real numbers</title>
 
   <section xml:id="sec-1-1">
-    <title>Sections 1.1, 1.2</title>
-    <subsection xml:id="sec-1-1-reading">
+    <title>Book sections 1.1, 1.2</title>
+    <paragraphs xml:id="sec-1-1-reading">
       <title>Reading</title>
       <p>
         <ul>
@@ -18,8 +18,8 @@
           <li>read excursion A (end of book)</li>
         </ul>
       </p>
-    </subsection>
-    <subsection xml:id="sec-1-1-presentations">
+    </paragraphs>
+    <paragraphs xml:id="sec-1-1-presentations">
       <title>Prepare for presentation</title>
       <p>
         <ul>
@@ -28,8 +28,8 @@
           <li>Theorem 1.2.8 (problem 1.2.3)</li>
         </ul>
       </p>
-    </subsection>
-    <subsection xml:id="sec-1-1-practice">
+    </paragraphs>
+    <paragraphs xml:id="sec-1-1-practice">
       <title>Practice problems</title>
       <p>
         <ul>
@@ -46,12 +46,12 @@
           <li>Problem 1.2.8</li>
         </ul>
       </p>
-    </subsection>
+    </paragraphs>
   </section>
 
   <section xml:id="sec-1-2">
-    <title>Section 1.3</title>
-    <subsection xml:id="sec-1-2-reading">
+    <title>Book section 1.3</title>
+    <paragraphs xml:id="sec-1-2-reading">
       <title>Reading</title>
       <p>
         This section is all about considering the effect of specifying order on the real numbers. Pay attention to how things are defined, because it is a bit unusual: we first define a set of "positive numbers", and then we use those to define what it means to say <m>a \leq b</m>
@@ -75,8 +75,8 @@
           <li>Exercise 1.3.12</li>
         </ul>
       </p>
-    </subsection>
-    <subsection xml:id="sec-1-2-presentations">
+    </paragraphs>
+    <paragraphs xml:id="sec-1-2-presentations">
       <title>Prepare for presentation</title>
       <p>
         <ul>
@@ -85,8 +85,8 @@
           <li>Theorem 1.3.8 parts 6, 8</li>
         </ul>
       </p>
-    </subsection>
-    <subsection xml:id="sec-1-2-practice">
+    </paragraphs>
+    <paragraphs xml:id="sec-1-2-practice">
       <title>Practice problems</title>
       <p>
         <ul>
@@ -96,6 +96,57 @@
           <li>Problem 1.3.5</li>
         </ul>
       </p>
-    </subsection>
+    </paragraphs>
+  </section>
+  <section xml:id="sec-1-3">
+    <title>Book section 1.4: Least Upper Bound axiom</title>
+    <paragraphs xml:id="sec-1-3-reading">
+      <title>Reading</title>
+      <p>
+        The least upper bound axiom is what makes the real numbers so special. Pay particular attention to this section.
+        <ul>
+          <li>definition 1.4.1</li>
+          <li>exercise 1.4.2</li>
+          <li>exercise 1.4.3</li>
+          <li>theorem 1.4.4</li>
+          <li>Axiom III (question: Why does the set need to be non-empty? What would be the "least upper bound" of the empty set?)</li>
+          <li>theorem 1.4.5</li>
+          <li>theorem 1.4.6</li>
+          <li>theorem 1.4.7</li>
+        </ul>
+      </p>
+      <p>
+        Optional: The first two results establish that square roots (and irrational numbers) exist. The others establish that the real numbers are "uncountable". Both really cool results, but time is limited.
+        <ul>
+          <li>theorem 1.4.8</li>
+          <li>corollary 1.4.9</li>
+          <li>theorem 1.4.10</li>
+          <li>definition 1.4.11</li>
+          <li>theorem 1.4.12</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-1-3-presentations">
+      <title>Prepare for presentation</title>
+      <p>
+        <ul>
+          <li>theorem 1.4.4</li>
+          <li>theorem 1.4.5</li>
+          <li>theorem 1.4.7</li>
+          <li>problem 1.4.2</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-1-3-practice">
+      <title>Practice problems</title>
+      <p>
+        <ul>
+          <li>Exercise 1.4.2</li>
+          <li>Problem 1.4.3</li>
+          <li>Problem 1.4.4</li>
+          <li>Problem 1.4.8a-d (part e is optional but cool)</li>
+        </ul>
+      </p>
+    </paragraphs>
   </section>
 </chapter>
