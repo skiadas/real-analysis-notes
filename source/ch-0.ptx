@@ -89,7 +89,7 @@
       <p>
         <ul>
           <li>Theorem 0.3.3</li>
-          <li>Theorem 0.3.4</li>
+          <li>Theorem 0.3.4 (skipping)</li>
           <li>Exercise 0.4.5</li>
         </ul>
       </p>
@@ -97,6 +97,26 @@
     <paragraphs xml:id="sec-0-2-practice">
       <title>Practice problems</title>
       <p>None</p>
+    </paragraphs>
+    <paragraphs>
+      <title>Proof of theorem 0.3.4</title>
+      <p>We are trying to prove that any non-empty subset of the natural numbers must have a least element. Using proof by contradiction, suppose that is not the case, i.e. suppose that <m>K</m> is a non-empty subset that has no smallest element. We will derive a contradiction.</p>
+      <p>
+        Define a set <me>
+          S = \{ n\in\mathbb{N}\colon \forall k\leq n k\not\in K \}
+        </me>. So <m>S</m> consists of those numbers <m>n</m> such that no element equal or less than them can belong to <m>K</m>. We will use the axiom of induction to show that <m>S = \mathbb{N}</m>. If we take that for granted for the moment, this implies that every natural number is in <m>S</m>, and so in particular (by the very definition of <m>S</m>) that number is not in <m>K</m>, meaning that <m>K</m> must be empty as it can't contain any natural number. But that contradicts the assumption that <m>K</m> was non-empty. This would complete the proof.</p>
+        <p>
+          So all that is left is to show that <m>S</m> is in fact all of the natural numbers. To do that we will employ the axiom of induction. First we show that <m>1\in S</m>. This is true since <m>1</m> is the smallest natural number, and so it can't be in <m>K</m> (otherwise it would be a least element). And neither can any numbers smaller than it (there aren't any). So it satisfies the condition.
+        </p>
+        <p>
+          Next, suppose that <m>n\in S</m>. We must show <m>n+1\in S</m>. Since <m>n\in S</m> we know that for all <m>k\leq n</m>, <m>k\not\in K</m>. Now consider <m>n+1</m>, and keep in mind that there are no natural numbers between <m>n</m> and <m>n+1</m>. If <m>n+1\in K</m>, then all the natural numbers less than it are also <m>\leq n</m> and hence not in <m>K</m>. This would make <m>n+1</m> the least element of <m>K</m>. Since we assumed <m>K</m> has no least element that means <m>n+1\not\in K</m>, and since we already knew all the smaller numbers are not in <m>K</m> we conclude <m>\forall k\leq n+1,\quad k\neq K</m>, or in other words <m>n+1\in S</m>.
+        </p>
+        <p>
+          So we just proved that our <m>S</m> satisfies the two conditions for the axiom of induction, and hence we can conclude that <m>S = \mathbb{N}</m>, i.e. that for all natural numbers <m>n</m> it is the case that for all <m>k\leq n</m> we have <m>k\not\in K</m>. That means there can be no elements in <m>K</m> and gives us our contradiction.
+        </p>
+        <p>
+          NOTE: We can use similar ideas to prove the "extended induction principle", where the second hypothesis in it would say that "if <m>P_k</m> is true for all <m>k\leq n</m> then <m>P_{n+1}</m> is also true." This allows us to assume all previous <m>n</m> cases when trying to prove the next case.
+        </p>
     </paragraphs>
   </section>
 </chapter>
