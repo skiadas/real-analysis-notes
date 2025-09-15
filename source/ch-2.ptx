@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-2" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Book chapter 2: Measuring Distances</title>
+
+  <section xml:id="sec-2-1">
+    <title>Book sections 2.1, 2.2</title>
+    <paragraphs xml:id="sec-2-1-reading">
+      <title>Reading</title>
+      <p>
+        <ul>
+          <li>Def 2.1.1</li>
+          <li>Exer 2.1.3</li>
+          <li>Exer 2.1.4</li>
+          <li>Exer 2.1.5</li>
+          <li>Example 2.2.1</li>
+          <li>Exercise 2.2.2</li>
+          <li>Lemma 2.2.3</li>
+          <li>Problem 2.2.7</li>
+          <li>Corollary 2.2.4 (proof is on previous page)</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-2-1-presentations">
+      <title>Prepare for presentation</title>
+      <p>
+        <ul>
+          <li>Exer 2.1.4</li>
+          <li>Exer 2.2.2</li>
+          <li>Problem 2.2.9</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-2-1-practice">
+      <title>Practice problems</title>
+      <p>
+        <ul>
+          <li>Exer 2.1.3</li>
+          <li>Exer 2.1.5</li>
+          <li>Problem 2.2.1</li>
+          <li>Problem 2.2.2</li>
+          <li>Problem 2.2.3</li>
+          <li>Problem 2.2.5</li>
+        </ul>
+      </p>
+    </paragraphs>
+  </section>
+
+</chapter>
