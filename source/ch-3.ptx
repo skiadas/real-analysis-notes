@@ -97,4 +97,86 @@
       </p>
     </paragraphs>
   </section>
+  <section xml:id="sec-3-3">
+    <title>Book section 3.4: Sequences in \mathbb{R}</title>
+    <paragraphs xml:id="sec-3-3-reading">
+      <title>Reading</title>
+      <p>
+        <ul>
+          <li>Theorem 3.4.1</li>
+          <li>Exercise 3.4.2</li>
+          <li>Theorem 3.4.3</li>
+          <li>Exercise 3.4.4</li>
+          <li>Theorem 3.4.5</li>
+          <li>Theorem 3.4.6</li>
+          <li>Exercise 3.4.8</li>
+          <li>Theorem 3.4.9</li>
+          <li>Theorem 3.4.10</li>
+          <li>Theorem 3.4.11 (esp part 3)</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-3-3-presentations">
+      <title>Prepare for presentation</title>
+      <p>
+        <ul>
+          <li>Theorem 3.4.6 (problem 3.4.5)</li>
+          <li>Problem 0.4.5</li>
+          <li>Theorem 3.4.9 (problem 3.4.7)</li>
+          <li>Theorem 3.4.11 part 3</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-3-3-practice">
+      <title>Practice problems</title>
+      <p>
+        <ul>
+          <li>Problem 3.4.2</li>
+          <li>Problem 3.4.3</li>
+          <li>Problem 3.4.5</li>
+          <li>Problem 3.4.8</li>
+          <li>Problem 3.4.9 (only case of sum)</li>
+        </ul>
+      </p>
+    </paragraphs>
+  </section>
+  <section xml:id="sec-3-4">
+    <title>Book section 3.5, 3.6: Limit points and closed sets</title>
+    <paragraphs xml:id="sec-3-4-reading">
+      <title>Reading</title>
+      <p>
+        <ul>
+          <li>Thm 3.5.1</li>
+          <li>Def 3.5.2</li>
+          <li>Exer 3.5.3</li>
+          <li>Exer 3.5.4</li>
+          <li>Def 3.6.1</li>
+          <li>Example 3.6.2</li>
+          <li>Theorem 3.6.3</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-3-4-presentations">
+      <title>Prepare for presentation</title>
+      <p>
+        <ul>
+          <li>Theorem 3.5.1</li>
+          <li>Problem 3.5.1</li>
+          <li>Theorem 3.6.3 (problem 3.6.3)</li>
+          <li>Problem 3.6.4</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-3-4-practice">
+      <title>Practice problems</title>
+      <p>
+        <ul>
+          <li>Prob 3.5.2</li>
+          <li>Prob 3.5.3</li>
+          <li>Optional: Prob 3.5.4</li>
+          <li>Prob 3.6.2</li>
+        </ul>
+      </p>
+    </paragraphs>
+  </section>
 </chapter>
