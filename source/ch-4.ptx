@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-4" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Book chapter 4: Continuity</title>
+
+  <section xml:id="sec-4-1">
+    <title>Book sections 4.1, 4.2: Limit of function</title>
+    <paragraphs xml:id="sec-4-1-reading">
+      <title>Reading</title>
+      <p>
+        <ul>
+          <li>4.1</li>
+          <li>Exer 4.1.1</li>
+          <li>Def 4.2.1 (and the discussion preceding it)</li>
+          <li>Exer 4.2.2</li>
+          <li>Thm 4.2.3</li>
+          <li>Thm 4.2.4</li>
+          <li>Prob 4.2.1</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-4-1-presentations">
+      <title>Prepare for presentation</title>
+      <p>
+        <ul>
+          <li>Thm 4.2.3 (problem 4.2.2)</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-4-1-practice">
+      <title>Practice problems</title>
+      <p>
+        <ul>
+          <li>Prob 4.2.3</li>
+          <li>Prob 4.2.4</li>
+        </ul>
+      </p>
+    </paragraphs>
+  </section>
+
+
+  <section xml:id="sec-4-2">
+    <title>Book sections 4.3 Continuous Functions</title>
+    <paragraphs xml:id="sec-4-2-reading">
+      <title>Reading</title>
+      <p>
+        <ul>
+          <li>Def 4.3.1</li>
+          <li>Exer 4.3.2</li>
+          <li>Thm 4.3.3</li>
+          <li>Thm 4.3.4</li>
+          <li>Thm 4.3.5</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-4-2-presentations">
+      <title>Prepare for presentation</title>
+      <p>
+        <ul>
+          <li>Thm 4.3.3 (problem 4.3.1)</li>
+          <li>Thm 4.3.5</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-4-2-practice">
+      <title>Practice problems</title>
+      <p>
+        <ul>
+          <li>Prob 4.3.2</li>
+          <li>Prob 4.3.3</li>
+          <li>Prob 4.3.4</li>
+          <li>Prob 4.3.6</li>
+          <li>Prob 4.3.8</li>
+          <li>Optional: prob 4.3.9</li>
+        </ul>
+      </p>
+    </paragraphs>
+  </section>
+
+  <section xml:id="sec-4-3">
+    <title>Book sections 4.4 Uniform continuity</title>
+    <paragraphs xml:id="sec-4-3-reading">
+      <title>Reading</title>
+      <p>
+        <ul>
+          <li>Def 4.4.1</li>
+          <li>Exer 4.4.2</li>
+          <li>Def 4.4.3</li>
+          <li>Thm 4.4.4</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-4-3-presentations">
+      <title>Prepare for presentation</title>
+      <p>
+        <ul>
+          <li>Prob 4.4.1</li>
+          <li>Thm 4.4.4 (problem 4.4.2)</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-4-3-practice">
+      <title>Practice problems</title>
+      <p>
+        <ul>
+          <li>Prob 4.4.3</li>
+          <li>Prob 4.4.4</li>
+          <li>Prob 4.4.5</li>
+          <li>Optional: 4.4.6</li>
+          <li>Optional: 4.4.7</li>
+          <li>Optional: 4.4.8</li>
+        </ul>
+      </p>
+    </paragraphs>
+  </section>
+
+</chapter>
