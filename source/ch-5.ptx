@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-5" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Book chapter 5: Real-Valued functions</title>
+
+  <section xml:id="sec-5-3">
+    <title>Book section 5.3: Continuity and arithmetic</title>
+    <paragraphs xml:id="sec-5-3-reading">
+      <title>Reading</title>
+      <p>
+        <ul>
+          <li>Thm 5.1.1</li>
+          <li>Thm 5.3.3</li>
+          <li>Optional: Excursion C</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-5-3-presentations">
+      <title>Prepare for presentation</title>
+      <p>
+        <ul>
+          <li>Problem 5.3.2</li>
+          <li>Problem 5.3.5</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-5-1-practice">
+      <title>Practice problems</title>
+      <p>
+        <ul>
+          <li>Prob 5.2.4</li>
+          <li>Prob 5.2.6</li>
+          <li>Prob 5.2.7</li>
+          <li>Optional: 5.2.8</li>
+        </ul>
+      </p>
+    </paragraphs>
+  </section>
+</chapter>
