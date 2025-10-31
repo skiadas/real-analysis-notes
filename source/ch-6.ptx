@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-6" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Book chapter 6: Completeness</title>
+
+  <section xml:id="sec-6-1">
+    <title>Book sections 6.1, 6.2: Cauchy sequences, Complete spaces</title>
+    <paragraphs xml:id="sec-6-1-reading">
+      <title>Reading</title>
+      <p>
+        <ul>
+          <li>Def 6.1.1</li>
+          <li>Thm 6.1.2</li>
+          <li>Def 6.2.1</li>
+          <li>Thm 6.2.2</li>
+          <li>Cor 6.2.3</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-6-1-presentations">
+      <title>Prepare for presentation</title>
+      <p>
+        <ul>
+          <li>Theorem 6.1.2 (each part separate)</li>
+          <li>Theorem 6.2.2</li>
+          <li>Problem 6.2.3</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-6-1-practice">
+      <title>Practice problems</title>
+      <p>
+        <ul>
+          <li>Problem 6.1.1</li>
+          <li>Problem 6.1.3</li>
+          <li>Problem 6.2.4</li>
+          <li>Optional: problem 6.2.5</li>
+          <li>Optional: problem 6.2.6</li>
+        </ul>
+      </p>
+    </paragraphs>
+  </section>
+</chapter>
