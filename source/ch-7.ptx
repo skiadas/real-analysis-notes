@@ -81,4 +81,70 @@
       </p>
     </paragraphs>
   </section>
+  <section xml:id="sec-7-3">
+    <title>Book section 7.2</title>
+    <paragraphs xml:id="sec-7-3-reading">
+      <title>Reading</title>
+      <p>
+        <ul>
+          <li>Thm 7.2.1</li>
+          <li>Thm 7.2.2</li>
+          <li>Thm 7.2.3</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-7-3-presentations">
+      <title>Prepare for presentation</title>
+      <p>
+        <ul>
+          <li>7.2.1</li>
+          <li>7.2.3</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-7-3-practice">
+      <title>Practice problems</title>
+      <p>
+        <ul>
+          <li>7.2.1</li>
+          <li>7.2.3</li>
+          <li>7.2.4</li>
+        </ul>
+      </p>
+    </paragraphs>
+  </section>
+<section xml:id="sec-7-4">
+    <title>Book section 7.3</title>
+    <paragraphs xml:id="sec-7-4-reading">
+      <title>Reading</title>
+      <p>
+        Read through this chapter carefully, there's a lot going on. Make sure to read carefully the text inbetween results.
+        <ul>
+          <li>Exer 7.3.1</li>
+          <li>Lemma 7.3.2</li>
+          <li>Thm 7.3.3</li>
+          <li>Corollary 7.3.4</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-7-4-presentations">
+      <title>Prepare for presentation</title>
+      <p>
+        <ul>
+          <li>Exer 7.3.1</li>
+          <li>Lemma 7.3.2</li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs xml:id="sec-7-4-practice">
+      <title>Practice problems</title>
+      <p>
+        <ul>
+          <li>prob 7.3.1</li>
+          <li>prob 7.3.4</li>
+          <li>prob 7.3.5</li>
+        </ul>
+      </p>
+    </paragraphs>
+  </section>
 </chapter>
